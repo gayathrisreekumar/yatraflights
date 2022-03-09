@@ -1,8 +1,6 @@
 # Yatra.com Homepage Test Automation
 
 <br/><br/>
-<br/><br/>
-<br/><br/>
 
 ## About Project
 
