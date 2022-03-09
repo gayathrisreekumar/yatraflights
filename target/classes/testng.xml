@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Yatra Assignment Automation Test Suite">
+
+	<test name="Yatra Home Page Test Cases">
+		<classes>
+			<class name="com.yatra.qa.tests.HomePageTest"></class>
+		</classes>
+	</test>
+</suite>
